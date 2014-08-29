@@ -1,0 +1,17 @@
+Tiny XSS Scanner is a 'special' project to compile in Visual Basic 6.0
+you need to modify files because we use ufMOD
+
+Go to: C:\Program Files\Microsoft Visual Studio\VB98
+rename LINK.EXE in LNK.EXE
+
+
+now copy the file LINK.EXE and link.c in the same folder
+you can compile now with ufMOD !
+dont forget if you make an executable, be sure ufmod.lib is in THE SAME FOLDER
+if you try to compile the executable with no ufmod.lib you won error in the linker "LNK : fatal error LNK1181 blah blah blah..."
+
+be safe
+
+__
+/Xylitol
+

@@ -1,0 +1,42 @@
+----/HELP FiLE: HUH.TXT/---------
+---------------------------=[ Tiny XSS ScanneR  1.0 ]=-----------------------------
+                                   By Xylitol
+
+After my first release XSS ScanneR  1.0, discover now.... Tiny XSS scanner 1.0
+for all guys who want to find XSS with google dorking, and for all VB coders...
+the source code is inclued because many guys have asked me for remake a simple
+XSS scanner with src... now you have it ;)
+i have packed the file with UPX v3.03 best packer 7Mo resided to 404 Ko !
+inclued 2 DLL if you dont have the VB runtime, and the Vista style
+
+too many pissing peoples says blah blah this scanner dont work etc...
+if the scanner make shit it's because you are spotted by google like link http://sorry.google.com/sorry/?continue
+etc...
+
+PS: in virustotal.com my Scanner have maked a resulte like: 2/39 (5.13%)
+eSafe says Suspicious File
+F-Secure says Suspicious:W32/Malware!Gemini
+it's not a malware that a false positive because it's packed with UPX
+unpack it and re test in virustotal you found 0/39 (0.00%)   ;)
+
+
+
+
+Enjoy the fun
+
+-------------------
+
+If you found a bug, repair it!, or contact me:
+irc.worldnet.net -> #carib0u
+irc.lcirc.net    -> #security-team
+Port: 6666 / 6667 / 6668 / (6697 for SSL)
+
+my nick is Xylitol or Xylitol^ on IRC ;)
+
+executable:
+
+File size..: 413696 bytes
+CRC32......: 0006BC45
+MD5........: 817a1da4d472230c79f0a9410e30e5c0
+SHA1.......: 2d782158987eb7e48c49a00660ad936928bbd4ec
+SHA256.....: bd5f6a8011fcd77373bace0a58fbe263d616db38df8d496cf59c12db0932d3b8
